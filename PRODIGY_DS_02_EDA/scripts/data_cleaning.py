@@ -1,8 +1,8 @@
 import pandas as pd
 
 # File path
-file_path = r'C:\projects\Data Science Internship\Task-02_EDA\data\train.csv'
-cleaned_file_path = r'C:\projects\Data Science Internship\Task-02_EDA\data\cleaned_train.csv'
+file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_02_EDA\data\train.csv'
+cleaned_file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_02_EDA\data\cleaned_train.csv'
 
 # Load the dataset
 def load_data():

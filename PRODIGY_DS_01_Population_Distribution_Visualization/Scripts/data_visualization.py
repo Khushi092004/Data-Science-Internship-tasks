@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # File path
-file_path = r'C:\projects\Data Science Internship\Task-01_Population_Distribution_Visualization\data\india-districts-census-2011.csv'
+file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_01_Population_Distribution_Visualization\data\india-districts-census-2011.csv'
 
 # Load the dataset
 try:

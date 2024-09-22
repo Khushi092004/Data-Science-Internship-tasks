@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import confusion_matrix, classification_report
 import matplotlib.pyplot as plt
 import seaborn as sns
-file_path = r'C:\projects\Data Science Internship\Task-03_Decision_Tree\data\bank-marketing.csv'
+file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_03_Decision_Tree\data\bank-marketing.csv'
 try:
     data = pd.read_csv(file_path, sep=';')  # Ensure correct delimiter
     print("Data loaded successfully!")

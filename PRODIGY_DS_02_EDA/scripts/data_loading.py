@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = r'C:\projects\Data Science Internship\Task-02_EDA\data\train.csv'
+file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_02_EDA\data\train.csv'
 
 def load_data():
     try:

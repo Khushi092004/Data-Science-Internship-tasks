@@ -1,7 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-cleaned_file_path = r'C:\projects\Data Science Internship\Task-02_EDA\data\cleaned_train.csv'
+cleaned_file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_02_EDA\data\cleaned_train.csv'
 def load_data():
     return pd.read_csv(cleaned_file_path)
 

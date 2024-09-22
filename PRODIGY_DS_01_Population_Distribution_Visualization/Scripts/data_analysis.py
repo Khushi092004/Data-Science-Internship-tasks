@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load cleaned dataset
-file_path = r'C:\projects\Data Science Internship\Task-01_Population_Distribution_Visualization\data\cleaned_population_data.csv'
+file_path = r'C:\projects\Data Science Internship\PRODIGY_DS_01_Population_Distribution_Visualization\data\cleaned_population_data.csv'
 
 # Load the dataset
 try:
