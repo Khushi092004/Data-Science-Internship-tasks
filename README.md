@@ -59,7 +59,7 @@ Twitter Entity Sentiment Analysis
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
-For more information, feel free to reach out on my [LinkedIn Profile](https://www.linkedin.com/in/khushijangir)
+For more information, feel free to reach out on my (https://www.linkedin.com/in/khushijangir)
 
 
 # Thank you for visiting my repository! 😊 Happy coding!
